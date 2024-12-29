@@ -1,3 +1,8 @@
+---
+layout: post
+title: DSA-Tree
+---
+
 # DSA - Tree
 ## [101. Symmetric Tree](https://leetcode.cn/problems/symmetric-tree)
 
